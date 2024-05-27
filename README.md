@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu GitHub! 👋
-Olá! Eu sou Lucas Pedro, um desenvolvedor web focado em criar interfaces atraentes e funcionais.
+Olá! Eu sou Lucas Pedro, um Desenvolvedor Web focado em criar interfaces atraentes e funcionais.
 ## Sobre Mim:
-•  🔭 Atualmente estou trabalhando em projetos pessoais e acadêmicos.<br><br>•  🌱 Estou constantemente aprendendo novas tecnologias e aprimorando minhas habilidades de desenvolvimento.<br><br>•  💼 Buscando oportunidades de estágio ou emprego na área de desenvolvimento.<br><br>•  🎓 Sou estudante de Análise e Desenvolvimento de Sistemas e Informática para Internet.
+•  🔭 Atualmente estou trabalhando em projetos pessoais e acadêmicos.<br><br>•  🌱 Estou constantemente aprendendo novas tecnologias e aprimorando minhas habilidades de desenvolvimento.<br><br>•  💼 Buscando oportunidades de emprego na área de desenvolvimento.<br><br>•  🎓 Sou formado em Análise e Desenvolvimento de Sistemas e estudante de Informática para Internet.
 
 
 ## Encontre-me por aqui 🌐
